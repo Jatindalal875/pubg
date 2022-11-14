@@ -5,7 +5,7 @@
 <h4 align="center">Rose bot  simplifies the management, administration and security of your group</h4>
 
 <p align="center">
-    <img src="https://img.shields.io/github.com/Jatindalal875/pubg/license?style=for-the-badge&logo=appveyor" alt="LICENSE">
+    <img src="https://img.shields.io/github/license/Jatindalal875/pubg?style=for-the-badge&logo=appveyor" alt="LICENSE">
     <img src="https://img.shields.io/github/contributors/szsupunma/sz-rosebot?style=for-the-badge&logo=appveyor" alt="Contributors">
     <img src="https://img.shields.io/github/repo-size/szsupunma/sz-rosebot?style=for-the-badge&logo=appveyor" alt="Repository Size"> <br>
     <img src="https://img.shields.io/github/issues/szsupunma/sz-rosebot?style=for-the-badge&logo=appveyor" alt="Issues">
