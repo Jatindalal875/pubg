@@ -1,3 +1,18 @@
+<p align="center">
+      <img style="width:100px; height: 100px;"  src="https://telegra.ph/file/c823fea618f6c024e75a9.png"></p>
+<h1 align="center"><b>Rose bot ✨</b></h1>
+<h2 align="center"><b>The Telegram Bot to manage and protect groups</b></h2>
+<h4 align="center">Rose bot  simplifies the management, administration and security of your group</h4>
+
+<p align="center">
+    <img src="https://img.shields.io/github/license/szsupunma/sz-rosebot?style=for-the-badge&logo=appveyor" alt="LICENSE">
+    <img src="https://img.shields.io/github/contributors/szsupunma/sz-rosebot?style=for-the-badge&logo=appveyor" alt="Contributors">
+    <img src="https://img.shields.io/github/repo-size/szsupunma/sz-rosebot?style=for-the-badge&logo=appveyor" alt="Repository Size"> <br>
+    <img src="https://img.shields.io/github/issues/szsupunma/sz-rosebot?style=for-the-badge&logo=appveyor" alt="Issues">
+    <img src="https://img.shields.io/github/forks/szsupunma/sz-rosebot?style=for-the-badge&logo=appveyor" alt="Forks">
+    <img src="https://img.shields.io/github/stars/szsupunma/sz-rosebot?style=for-the-badge&logo=appveyor" alt="Stars">
+    <img href="https://crowdin.com/project/szrosebot" src="https://badges.crowdin.net/szrosebot/localized.svg" alt="crowndin"> 
+</p>
 
 <p align="center">
 <b>𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗠𝗘𝗧𝗛𝗢𝗗𝗦</b>
