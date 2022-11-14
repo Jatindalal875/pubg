@@ -324,10 +324,10 @@ def info(update: Update, context: CallbackContext):
                     [
                         [
                             InlineKeyboardButton(
-                                "ᴄʜᴀɴɴᴀʟ", url="https://t.me/INDIA_UNITED"
+                                "ᴄʜᴀɴɴᴀʟ", url="https://t.me/CSN_OFFICIAL"
                             ),
                             InlineKeyboardButton(
-                                "ꜱᴜᴘᴘᴏʀᴛ", url="https://t.me/INDIA_UNITED_SUPPORT"
+                                "ꜱᴜᴘᴘᴏʀᴛ", url="https://t.me/CSN_SUPPORT"
                             ),
                         ],
                     ]
